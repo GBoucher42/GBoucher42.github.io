@@ -1,0 +1,33 @@
+.sad-avatar{
+  background: url('../img/sad-avatar.svg') no-repeat;
+}
+
+.explaining-avatar{
+  background: url('../img/explaining-avatar.svg') no-repeat;
+}
+
+
+.happy-avatar{
+  background: url('../img/happy-avatar.svg') no-repeat;
+}
+
+.avatar {
+  height: 200px;
+  border-radius: 50%;
+}
+
+.member-container {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.member-name {
+  text-align: center;
+  font-weight: 400;
+  font-size: 1.2rem
+}
+
+.member-title {
+  text-align: center;
+  font-size: 0.8rem
+}
