@@ -1,13 +1,16 @@
 .sad-avatar{
+  height: 250px;
   background: url('../img/sad-avatar.svg') no-repeat;
 }
 
 .explaining-avatar{
+  height: 250px;
   background: url('../img/explaining-avatar.svg') no-repeat;
 }
 
 
 .happy-avatar{
+  height: 250px;
   background: url('../img/happy-avatar.svg') no-repeat;
 }
 
