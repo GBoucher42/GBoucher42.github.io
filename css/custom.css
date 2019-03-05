@@ -14,6 +14,24 @@
   background: url('../img/happy-avatar.svg') no-repeat;
 }
 
+@media only screen and (max-width: 600px) {
+  .sad-avatar{
+    visibility: hidden;
+    height: 0px;
+  }
+
+  .explaining-avatar{
+    visibility: hidden;
+    height: 0px;
+  }
+
+
+  .happy-avatar{
+    visibility: hidden;
+    height: 0px;
+  }
+}
+
 .avatar {
   height: 200px;
   border-radius: 50%;
