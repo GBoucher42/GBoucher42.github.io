@@ -8,6 +8,9 @@
   background: url('../img/explaining-avatar.svg') no-repeat;
 }
 
+.color-primary {
+  color: #f4623a;
+}
 
 .happy-avatar{
   height: 250px;
@@ -51,4 +54,9 @@
 .member-title {
   text-align: center;
   font-size: 0.8rem
+}
+
+.hidden {
+  visibility: hidden;
+  height: 0px;
 }
