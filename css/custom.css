@@ -47,8 +47,9 @@
 }
 
 .logo {
-  max-width: 400px;
+  max-width: 350px;
   vertical-align: middle;
+  margin-bottom: 20px;
 }
 
 .logo-container {
