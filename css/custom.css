@@ -40,6 +40,21 @@
   border-radius: 50%;
 }
 
+.helper {
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.logo {
+  max-width: 400px;
+  vertical-align: middle;
+}
+
+.logo-container {
+  white-space: nowrap;
+}
+
 .member-container {
   width: 200px;
   margin: 0 auto;
